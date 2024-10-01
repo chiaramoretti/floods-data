@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features":[
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[12.3053377,44.1886538,0],[12.4006238,44.2078168,0],[12.3445818,44.3192354,0],[12.2519393,44.2895033,0],[12.3053377,44.1886538,0]]]},"properties":{"name":"Cervia_saltmarsh"}}
+]}
